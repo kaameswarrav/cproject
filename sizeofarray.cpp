@@ -6,5 +6,6 @@ int main()
 	printf("Array element size : %d \n", sizeof(arr[0]));
 	printf("Length of Array : %d \n", sizeof(arr)/sizeof(arr[0]));
     return 0;
+    //this is array length program//  
 }
 
